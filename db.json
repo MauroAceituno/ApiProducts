@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Teclado Mecánico Redragon YAMA",
+      "price": 10000,
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "name": "Mouse Logitech G-203",
+      "price": 3500,
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "name": "Monitor Cx-19 19 pulgadas",
+      "price": 23000,
+      "stock": 12
+    },
+    {
+      "id": 4,
+      "name": "Motherboard B-450-M-A-II",
+      "price": 15000,
+      "stock": 13
+    },
+    {
+      "id": 5,
+      "name": "Procesador Ryzen 5-5600G",
+      "price": 38000,
+      "stock": 10
+    },
+    {
+      "id": 6,
+      "name": "Fuente Gigabyte P-550",
+      "price": 11000,
+      "stock": 19
+    }
+  ]
+}
